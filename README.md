@@ -1,15 +1,3 @@
-<div align="center">
-  <!-- Efeito de digitação -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&lines=👋+Oi,+eu+sou+Richard+Erick!;🚀+Apaixonado+por+Automação+e+Backend;🐍+Criador+de+Robôs+de+Automações" alt="Typing SVG">
-  </a>
-</div>
-
-<!-- GIF do header -->
-<img align="center" src="./assets/header.gif" alt="header gif">
-
----
-
 <p align="center">
 Sou estudante e entusiasta de tecnologia 💻.  
 Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
