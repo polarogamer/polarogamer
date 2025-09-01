@@ -1,6 +1,7 @@
 ## Oiii, eu sou o Richard Erick! 👋
 
 Gosto muito de fazer **automação**, **backend** e criação de **robôs de automações**.  
+
 Atualmente estou estudando para me tornar um **futuro programador backend**, sempre explorando novas formas de automatizar tarefas e melhorar processos.
 
 <div style="display: inline_block"><br>
