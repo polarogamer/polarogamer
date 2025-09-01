@@ -1,17 +1,18 @@
 <div align="center">
   <!-- Efeito de digitação -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&lines=👋+Oi,+eu+sou+Richard+Erick!;🚀+Apaixonado+por+Automação+e+Backend;🐍+Criador+de+Robôs+de+Automações" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&lines=👋+Oi,+eu+sou+Richard+Erick!;🚀+Apaixonado+por+Automação+e+Backend;🐍+Criador+de+Robôs+de+Automações" alt="Typing SVG">
   </a>
 </div>
 
-<img align="center" src="./src/header-gif.gif" alt="header gif">
+<!-- GIF do header -->
+<img align="center" src="./assets/header.gif" alt="header gif">
 
 ---
 
 <p align="center">
 Sou estudante e entusiasta de tecnologia 💻.  
-Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas e processos repetitivos.  
+Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
 Sempre buscando novos desafios e aprendizados na programação.
 </p>
 
@@ -21,6 +22,8 @@ Sempre buscando novos desafios e aprendizados na programação.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" title="Docker"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
