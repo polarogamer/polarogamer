@@ -26,6 +26,7 @@ Atualmente estou estudando para me tornar um **futuro programador backend**, sem
 
 ## 🐍 Snake Game dos meus contributions
 
-![Snake animation](https://github.com/polarogamer/polarogamer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/polarogamer/polarogamer/output/github-contribution-grid-snake.svg)
+
 
 
