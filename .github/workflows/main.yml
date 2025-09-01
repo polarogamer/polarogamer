@@ -1,0 +1,34 @@
+name: Snake Game Contributions
+
+on:
+  schedule:
+    # roda 2x por dia (00:00 e 12:00)
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: polarogamer
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=lime
+            dist/github-contribution-grid-snake.png?color_snake=lime
+
+      - name: Upload snake files
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/*
