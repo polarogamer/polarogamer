@@ -2,11 +2,11 @@
 Sou estudante e entusiasta de tecnologia 💻.  
 I am a student and technology enthusiast 💻.
 
-Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
-Currently learning **Python** and **Backend**, creating scripts and **automation bots** to streamline repetitive tasks.
-
-Sempre buscando novos desafios e aprendizados na programação.  
-Always seeking new challenges and opportunities to grow in programming.
+      Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
+      Currently learning **Python** and **Backend**, creating scripts and **automation bots** to streamline repetitive tasks.
+      
+      Sempre buscando novos desafios e aprendizados na programação.  
+      Always seeking new challenges and opportunities to grow in programming.
 </p>
 
 ---
