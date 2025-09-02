@@ -1,8 +1,8 @@
 <p align="center">
 Sou estudante e entusiasta de tecnologia 💻.  
 
-Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
-Sempre buscando novos desafios e aprendizados na programação.
+        Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
+        Sempre buscando novos desafios e aprendizados na programação.
 </p>
 
 ---
