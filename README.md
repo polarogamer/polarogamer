@@ -1,5 +1,6 @@
 <p align="center">
 Sou estudante e entusiasta de tecnologia 💻.  
+
 Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
 Sempre buscando novos desafios e aprendizados na programação.
 </p>
@@ -10,8 +11,6 @@ Sempre buscando novos desafios e aprendizados na programação.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" title="Docker"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
