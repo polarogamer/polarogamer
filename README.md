@@ -1,8 +1,12 @@
 <p align="center">
 Sou estudante e entusiasta de tecnologia 💻.  
+I am a student and technology enthusiast 💻.
 
-        Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
-        Sempre buscando novos desafios e aprendizados na programação.
+Atualmente estudo **Python** e **Backend**, criando scripts e **robôs de automação** para otimizar tarefas repetitivas.  
+Currently learning **Python** and **Backend**, creating scripts and **automation bots** to streamline repetitive tasks.
+
+Sempre buscando novos desafios e aprendizados na programação.  
+Always seeking new challenges and opportunities to grow in programming.
 </p>
 
 ---
@@ -17,7 +21,7 @@ Sou estudante e entusiasta de tecnologia 💻.
 
 ---
 
-### 📫 Contato
+### 📫 Contato / Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/richard-erick-8743092a7/" target="_blank">
@@ -30,9 +34,8 @@ Sou estudante e entusiasta de tecnologia 💻.
 
 ---
 
-### 🚀 Projetos e interesses
-- 🤖 **Automação de tarefas com Python**  
-- 🛠 **Criação de robôs de automações**  
-- 🌐 **Backend e APIs**  
-- ⚡ **Scripts para otimizar processos repetitivos**
-
+### 🚀 Projetos e interesses / Projects & Interests
+- 🤖 **Automação de tarefas com Python / Task automation with Python**  
+- 🛠 **Criação de robôs de automações / Creation of automation bots**  
+- 🌐 **Backend e APIs / Backend development and APIs**  
+- ⚡ **Scripts para otimizar processos repetitivos / Scripts to optimize repetitive processes**
